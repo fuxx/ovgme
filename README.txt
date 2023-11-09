@@ -10,7 +10,7 @@ Home page: https://github.com/sedenion/ovgme
 ----------------------------------------------------------------------------------------
 Presentation
 ----------------------------------------------------------------------------------------
-
+ 
 OvGME is a Mod manager based on the idea and concept of JSGME, it take the GME
 acronym from JSGME which stands for Generic Mod Enabler. The main purpose of OvGME is to
 provide an easy way to import and enable mods for games then restore original files when
